@@ -1,0 +1,2 @@
+Invoking command in '/home/tharusha/robotics/build/lab_2_3dPose': /usr/bin/cmake /home/tharusha/robotics/src/lab_2_3dPose -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/tharusha/robotics/install/lab_2_3dPose
+Invoked command in '/home/tharusha/robotics/build/lab_2_3dPose' returned '1': /usr/bin/cmake /home/tharusha/robotics/src/lab_2_3dPose -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/tharusha/robotics/install/lab_2_3dPose

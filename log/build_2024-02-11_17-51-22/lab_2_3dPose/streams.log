@@ -1,0 +1,33 @@
+[0.472s] Invoking command in '/home/tharusha/robotics/build/lab_2_3dPose': /usr/bin/cmake /home/tharusha/robotics/src/lab_2_3dPose -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/tharusha/robotics/install/lab_2_3dPose
+[0.657s] -- The C compiler identification is GNU 11.4.0
+[0.788s] -- The CXX compiler identification is GNU 11.4.0
+[0.800s] -- Detecting C compiler ABI info
+[0.866s] -- Detecting C compiler ABI info - done
+[0.872s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.872s] -- Detecting C compile features
+[0.873s] -- Detecting C compile features - done
+[0.877s] -- Detecting CXX compiler ABI info
+[0.950s] -- Detecting CXX compiler ABI info - done
+[0.956s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.957s] -- Detecting CXX compile features
+[0.957s] -- Detecting CXX compile features - done
+[0.982s] [31mCMake Error at CMakeLists.txt:10 (find_package):
+[0.982s]   By not providing "Findcatkin.cmake" in CMAKE_MODULE_PATH this project has
+[0.982s]   asked CMake to find a package configuration file provided by "catkin", but
+[0.982s]   CMake did not find one.
+[0.982s] 
+[0.982s]   Could not find a package configuration file provided by "catkin" with any
+[0.982s]   of the following names:
+[0.982s] 
+[0.982s]     catkinConfig.cmake
+[0.982s]     catkin-config.cmake
+[0.982s] 
+[0.982s]   Add the installation prefix of "catkin" to CMAKE_PREFIX_PATH or set
+[0.983s]   "catkin_DIR" to a directory containing one of the above files.  If "catkin"
+[0.983s]   provides a separate development package or SDK, be sure it has been
+[0.983s]   installed.
+[0.983s] 
+[0.983s] [0m
+[0.983s] -- Configuring incomplete, errors occurred!
+[0.983s] See also "/home/tharusha/robotics/build/lab_2_3dPose/CMakeFiles/CMakeOutput.log".
+[0.986s] Invoked command in '/home/tharusha/robotics/build/lab_2_3dPose' returned '1': /usr/bin/cmake /home/tharusha/robotics/src/lab_2_3dPose -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/tharusha/robotics/install/lab_2_3dPose

@@ -1,0 +1,36 @@
+[0.811s] Invoking command in '/home/tharusha/robotics/src/lab3d_pose': PYTHONPATH=/home/tharusha/robotics/build/lab3d_pose/prefix_override:/home/tharusha/robotics/install/lab3d_pose/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/lab3d_pose build --build-base /home/tharusha/robotics/build/lab3d_pose/build install --record /home/tharusha/robotics/build/lab3d_pose/install.log --single-version-externally-managed
+[0.990s] running egg_info
+[0.990s] creating ../../build/lab3d_pose/lab3d_pose.egg-info
+[0.990s] writing ../../build/lab3d_pose/lab3d_pose.egg-info/PKG-INFO
+[0.991s] writing dependency_links to ../../build/lab3d_pose/lab3d_pose.egg-info/dependency_links.txt
+[0.991s] writing entry points to ../../build/lab3d_pose/lab3d_pose.egg-info/entry_points.txt
+[0.991s] writing requirements to ../../build/lab3d_pose/lab3d_pose.egg-info/requires.txt
+[0.991s] writing top-level names to ../../build/lab3d_pose/lab3d_pose.egg-info/top_level.txt
+[0.991s] writing manifest file '../../build/lab3d_pose/lab3d_pose.egg-info/SOURCES.txt'
+[0.992s] reading manifest file '../../build/lab3d_pose/lab3d_pose.egg-info/SOURCES.txt'
+[0.992s] adding license file 'LICENSE'
+[0.993s] writing manifest file '../../build/lab3d_pose/lab3d_pose.egg-info/SOURCES.txt'
+[0.993s] running build
+[0.993s] running build_py
+[0.993s] creating /home/tharusha/robotics/build/lab3d_pose/build
+[0.993s] creating /home/tharusha/robotics/build/lab3d_pose/build/lib
+[0.993s] creating /home/tharusha/robotics/build/lab3d_pose/build/lib/lab3d_pose
+[0.993s] copying lab3d_pose/__init__.py -> /home/tharusha/robotics/build/lab3d_pose/build/lib/lab3d_pose
+[0.993s] running install
+[0.993s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.993s]   warnings.warn(
+[0.994s] running install_lib
+[0.994s] creating /home/tharusha/robotics/install/lab3d_pose/lib/python3.10/site-packages/lab3d_pose
+[0.994s] copying /home/tharusha/robotics/build/lab3d_pose/build/lib/lab3d_pose/__init__.py -> /home/tharusha/robotics/install/lab3d_pose/lib/python3.10/site-packages/lab3d_pose
+[0.995s] byte-compiling /home/tharusha/robotics/install/lab3d_pose/lib/python3.10/site-packages/lab3d_pose/__init__.py to __init__.cpython-310.pyc
+[0.995s] running install_data
+[0.995s] creating /home/tharusha/robotics/install/lab3d_pose/share/ament_index
+[0.995s] creating /home/tharusha/robotics/install/lab3d_pose/share/ament_index/resource_index
+[0.995s] creating /home/tharusha/robotics/install/lab3d_pose/share/ament_index/resource_index/packages
+[0.995s] copying resource/lab3d_pose -> /home/tharusha/robotics/install/lab3d_pose/share/ament_index/resource_index/packages
+[0.995s] copying package.xml -> /home/tharusha/robotics/install/lab3d_pose/share/lab3d_pose
+[0.995s] running install_egg_info
+[0.996s] Copying ../../build/lab3d_pose/lab3d_pose.egg-info to /home/tharusha/robotics/install/lab3d_pose/lib/python3.10/site-packages/lab3d_pose-0.0.0-py3.10.egg-info
+[0.997s] running install_scripts
+[1.013s] writing list of installed files to '/home/tharusha/robotics/build/lab3d_pose/install.log'
+[1.035s] Invoked command in '/home/tharusha/robotics/src/lab3d_pose' returned '0': PYTHONPATH=/home/tharusha/robotics/build/lab3d_pose/prefix_override:/home/tharusha/robotics/install/lab3d_pose/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/lab3d_pose build --build-base /home/tharusha/robotics/build/lab3d_pose/build install --record /home/tharusha/robotics/build/lab3d_pose/install.log --single-version-externally-managed
